@@ -1,0 +1,25 @@
+.menu-blue {
+	background-color: #0C1119;
+	background-size: cover;
+	background-position: center;
+	padding: 10px;
+}	
+
+
+.menu-links {
+	color: white;
+	font-weight: bolder;
+	padding: 30px;
+	margin: auto;
+}
+
+.menu-links:hover {
+	color: rgb(148, 39, 33);
+}
+
+
+.menu-list {
+	list-style: none;
+	display: inline-flex;
+	
+}

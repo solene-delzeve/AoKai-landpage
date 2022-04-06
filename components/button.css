@@ -1,0 +1,31 @@
+.btn-blue {
+	background-color: rgba(148, 39, 33, 0.8);
+	padding: 15px 20px;
+	border-radius: 5px;
+	color: white;
+	font-weight: bolder;
+	font-family: lato, sans-serif;
+	text-transform: uppercase;
+	text-align: center;
+	justify-items: center;
+}
+
+.btn-blue a:hover {
+	background-color: black;
+}
+
+#button-link a:hover {
+	background-color: black;
+}
+
+#button-link {
+	background-color: rgba(148, 39, 33, 0.8);
+	padding: 15px 20px;
+	border-radius: 5px;
+	color: white;
+	font-weight: bolder;
+	font-family: lato, sans-serif;
+	text-transform: uppercase;
+	text-align: center;
+
+}
